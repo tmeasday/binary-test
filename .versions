@@ -1,0 +1,14 @@
+babel-compiler@6.5.2-rc.6
+babel-runtime@0.1.6-rc.6
+base64@1.0.6-rc.6
+check@1.1.2-rc.6
+ecmascript@0.4.1-rc.6
+ecmascript-runtime@0.2.8-rc.6
+ejson@1.0.9-rc.6
+jquery@1.11.6-rc.6
+meteor@1.1.12-rc.6
+modules@0.5.1-rc.6
+modules-runtime@0.6.1-rc.6
+promise@0.6.4-rc.6
+tmeasday:binary-test@0.0.1
+underscore@1.0.6-rc.6
