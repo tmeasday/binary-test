@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'binary-test',
+  name: 'tmeasday:binary-test',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Testing forcing non-portability of packages',
